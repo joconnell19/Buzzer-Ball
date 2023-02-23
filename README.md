@@ -8,3 +8,8 @@ People who are blind have less access to recreational activities because it is d
 - Ball and backboard mechanics designed by Micah Rudy, Connor Flolo, and Josiah Stroup.
 - Ball electronics designed and wired by Jackson Pope and William Coston.
 - Ball code written by Jamie O'Connell.
+
+
+![backboard](https://user-images.githubusercontent.com/72159334/221048436-43653864-adfa-401d-9cf4-e70d1b8b2253.jpg)
+![inner ball](https://user-images.githubusercontent.com/72159334/221048439-cddf5237-1594-4bf2-bc2d-9861d7bc2b61.jpg)
+![outer ball](https://user-images.githubusercontent.com/72159334/221048440-5092ed73-bc94-45dc-b9fa-b83c64892243.jpg)
